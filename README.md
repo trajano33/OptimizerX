@@ -17,7 +17,8 @@
 
 ### 🔄 Baixar
 1. Clone o Repositório:
-    ```git clone https://github.com/trajano33/OptimizerX```
+    ```bash
+   git clone https://github.com/trajano33/OptimizerX```
 
 
 ### 📱 Como Utilizar:
