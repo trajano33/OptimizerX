@@ -16,7 +16,7 @@
 
 
 ### 🔄 Baixar
-1. Clone o Repositório 
+1. Clone o Repositório:
 ```git clone https://github.com/trajano33/OptimizerX```
 
 
