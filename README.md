@@ -21,9 +21,6 @@
 
 
 ### 📱 Como Utilizar:
-1. Execute o arquivo 
-
-**Nota Importante:** _Certifique-se de possuir as devidas permissões ao utilizar esta ferramenta. Não me responsabilizo por qualquer uso indevido da mesma. Utilize-a de forma ética e legal, em conformidade com as leis e regulamentações locais_
-.
+1. Execute o arquivo [OptimizerX.bat](https://github.com/trajano33/OptimizerX/OptimizerX.bat) como administrador
 
 
