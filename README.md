@@ -1,2 +1,24 @@
-# OptimizerX
-Windows Optimizer é uma ferramenta poderosa projetada para melhorar o desempenho e a eficiência do seu sistema Windows. Com um conjunto abrangente de funcionalidades.
+# 🌐 OptimizerX
+
+**Autor:** [trajano](https://github.com/trajano33)
+
+
+
+
+
+## Descrição 🚀
+
+O Evil Goat é um projeto Arduino que funciona como um criador de Evil Twin, implementando um captive portal para login Wi-Fi por meio de um ESP8266. Este dispositivo cria uma rede Wi-Fi simulada, atrai dispositivos próximos e, ao usar uma interface web convincente, induz os usuários a realizar logins comprometedores. O Evil Goat é uma ferramenta versátil para testes de segurança em redes sem fio.
+
+
+## 🔧 Instalação
+
+
+
+### 🔄 Baixar
+1. Clone o Repositório 
+`git clone https://github.com/trajano33/OptimizerX `
+
+
+### 📱 Como Utilizar:
+1. Execute o arquivo 
