@@ -21,6 +21,6 @@
 
 
 ### 📱 Como Utilizar:
-1. Execute o arquivo [OptimizerX.bat](https://github.com/trajano33/OptimizerX/OptimizerX.bat) como administrador
+1. Execute o arquivo [OptimizerX.bat](https://github.com/trajano33/OptimizerX/blob/main/OptimizerX.bat) como administrador
 
 
