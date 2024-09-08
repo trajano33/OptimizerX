@@ -8,7 +8,7 @@
 
 ## Descrição 🚀
 
-O Evil Goat é um projeto Arduino que funciona como um criador de Evil Twin, implementando um captive portal para login Wi-Fi por meio de um ESP8266. Este dispositivo cria uma rede Wi-Fi simulada, atrai dispositivos próximos e, ao usar uma interface web convincente, induz os usuários a realizar logins comprometedores. O Evil Goat é uma ferramenta versátil para testes de segurança em redes sem fio.
+**Windows Optimizer** é uma ferramenta desenvolvida para aprimorar o desempenho do seu sistema Windows. O programa realiza uma série de funções essenciais, como a remoção de aplicativos e serviços desnecessários que podem estar sobrecarregando o sistema, além de ajustar as configurações de DNS para melhorar a velocidade da navegação na web. Também ajuda a liberar espaço no disco rígido ao eliminar arquivos temporários e outros itens indesejados. Adicionalmente, o Windows Optimizer reduz o input lag, ajustando as configurações do sistema para proporcionar uma experiência mais responsiva em jogos e aplicações interativas. Com uma interface intuitiva e fácil de usar, o Windows Optimizer é a escolha perfeita para manter seu sistema Windows otimizado e funcionando de forma eficiente.
 
 
 ## 🔧 Instalação
