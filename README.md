@@ -2,7 +2,9 @@
 
 **Autor:** [trajano](https://github.com/trajano33)
 
-
+<p align="center">
+  <img src="https://github.com/trajano33/OptimizerX/blob/main/program.png" alt="png"/>
+</p>
 
 
 
